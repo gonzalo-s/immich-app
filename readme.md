@@ -7,6 +7,16 @@ sudo docker compose up
 sudo docker compose stop
 ```
 
+## UPDATE VERSION STEPS:
+
+1- Change to version needed in the env file: IMMICH_VERSION= <HERE>
+2-
+
+```sh
+sudo docker compose up
+sudo docker compose stop
+```
+
 > **Note:** After modifying the `.env` file, you may need to recreate data:
 
 ```sh
