@@ -23,6 +23,8 @@ sudo docker compose stop
 sudo docker compose up -d --force-recreate
 ```
 
+UBUNUTU BACKUP:
+
 ## Adding a New Drive
 
 When adding a new drive, make sure it's set to auto-mount!
